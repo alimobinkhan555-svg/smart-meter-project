@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Meter – Pulse Counter & Analytics Agent
 
 A Linux system, written entirely in **C/C++**, that reads the pulse output of a smart
@@ -445,3 +446,7 @@ smart-meter-project/
 
 GPL-2.0 for the kernel module (required by the Linux kernel), MIT for the user-space
 sources. See `LICENSE`.
+=======
+# smart-meter-project
+hello
+>>>>>>> 0df7a9a204850e93415cae762e59a331ca422c3c

@@ -1,0 +1,21 @@
+# build artefacts
+build/
+driver/*.o
+driver/*.ko
+driver/*.mod
+driver/*.mod.c
+driver/.*.cmd
+driver/Module.symvers
+driver/modules.order
+
+# runtime output
+logs/*.csv
+exports/
+*.png
+
+# editor / OS noise
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store

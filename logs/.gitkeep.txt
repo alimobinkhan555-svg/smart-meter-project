@@ -1,0 +1,5 @@
+# Runtime output
+
+The application creates this directory and writes `pulses.csv` here.
+Everything in it is regenerated at runtime, so the directory is kept in git
+but its contents are not (see `.gitignore`).
